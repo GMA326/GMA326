@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux and KI prompting 
 - 🌱 I’m currently learning @DCI Systemadministrator
 - 💞️ I’m looking to collaborate on KI prompting, ansible playbooks and docker-compose.yml
-- 📫 How to reach me Ask
+- 📫 How to reach me g.manduca@gmx.de
 - 😄 Pronouns: Ask
 - ⚡ Fun fact: Ask
 
