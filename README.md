@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GMA326
 - 👀 I’m interested in Linux and KI prompting 
 - 🌱 I’m currently learning @DCI Systemadministrator
-- 💞️ I’m looking to collaborate on KI prompting, ansible playbooks and docker-compose.yml and working on https://gaetanomanduca.tech
+- 💞️ I’m looking to collaborate on KI prompting, terraform and azure, currently working on https://gaetanomanduca.tech
 - 📫 How to reach me g.manduca@gmx.de
 - 😄 Pronouns: Ask
 - ⚡ Fun fact: Ask
